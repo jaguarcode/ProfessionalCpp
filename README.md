@@ -14,7 +14,7 @@
 - 논리 연산자
 - 함수
 - C 스타일 배열 (ref. CStyledArray.cpp)
-- std::array
+- std::array (https://github.com/jaguarcode/ProfessionalCpp/blob/master/StdArray.cpp)
 - std::vector
 - 구조적 바인딩
 - 반복문
