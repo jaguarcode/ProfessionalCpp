@@ -24,5 +24,14 @@
     <ClCompile Include="CStyledArray.cpp">
       <Filter>소스 파일\Part1</Filter>
     </ClCompile>
+    <ClCompile Include="StdArray.cpp">
+      <Filter>소스 파일\Part1</Filter>
+    </ClCompile>
+    <ClCompile Include="StdVector.cpp">
+      <Filter>소스 파일\Part1</Filter>
+    </ClCompile>
+    <ClCompile Include="InitializerList.cpp">
+      <Filter>소스 파일\Part1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
