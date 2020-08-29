@@ -13,7 +13,7 @@
 - 조건문
 - 논리 연산자
 - 함수
-- C 스타일 배열 (ref. CStyledArray.cpp)
+- C 스타일 배열 (https://github.com/jaguarcode/ProfessionalCpp/blob/master/CStyledArray.cpp)
 - std::array (https://github.com/jaguarcode/ProfessionalCpp/blob/master/StdArray.cpp)
 - std::vector
 - 구조적 바인딩
