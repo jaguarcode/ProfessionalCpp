@@ -144,8 +144,10 @@
     <ClCompile Include="InitializerList.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Pointer.cpp" />
+    <ClCompile Include="Reference.cpp" />
     <ClCompile Include="StdArray.cpp" />
     <ClCompile Include="StdVector.cpp" />
+    <ClCompile Include="TypeInference.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

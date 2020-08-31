@@ -39,5 +39,11 @@
     <ClCompile Include="Const.cpp">
       <Filter>소스 파일\Part1</Filter>
     </ClCompile>
+    <ClCompile Include="Reference.cpp">
+      <Filter>소스 파일\Part1</Filter>
+    </ClCompile>
+    <ClCompile Include="TypeInference.cpp">
+      <Filter>소스 파일\Part1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
