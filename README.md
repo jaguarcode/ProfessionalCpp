@@ -25,9 +25,9 @@
 - C++의 스트링
 - 포인터와 동적 메모리 (https://github.com/jaguarcode/ProfessionalCpp/blob/master/Pointer.cpp)
 - const의 다양한 용도 (https://github.com/jaguarcode/ProfessionalCpp/blob/master/Const.cpp)
-- 레퍼런스
+- 레퍼런스 (https://github.com/jaguarcode/ProfessionalCpp/blob/master/Reference.cpp)
 - 익셉션
-- 타입 추론
+- 타입 추론 (https://github.com/jaguarcode/ProfessionalCpp/blob/master/TypeInference.cpp)
 
 #### C++의 객체지향 언어 특성
 - 클래스 정의
