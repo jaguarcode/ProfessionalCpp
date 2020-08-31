@@ -24,7 +24,7 @@
 #### C++의 고급 기능
 - C++의 스트링
 - 포인터와 동적 메모리 (https://github.com/jaguarcode/ProfessionalCpp/blob/master/Pointer.cpp)
-- const의 다양한 용도
+- const의 다양한 용도 (https://github.com/jaguarcode/ProfessionalCpp/blob/master/Const.cpp)
 - 레퍼런스
 - 익셉션
 - 타입 추론
