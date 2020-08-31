@@ -18,7 +18,7 @@
 - std::vector (https://github.com/jaguarcode/ProfessionalCpp/blob/master/StdVector.cpp)
 - 구조적 바인딩
 - 반복문
-- 이니셜라이저 리스트
+- 이니셜라이저 리스트 (https://github.com/jaguarcode/ProfessionalCpp/blob/master/InitializerList.cpp)
 - 중간 정리
 
 #### C++의 고급 기능
