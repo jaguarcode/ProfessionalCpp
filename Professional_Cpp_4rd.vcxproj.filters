@@ -36,5 +36,8 @@
     <ClCompile Include="Pointer.cpp">
       <Filter>소스 파일\Part1</Filter>
     </ClCompile>
+    <ClCompile Include="Const.cpp">
+      <Filter>소스 파일\Part1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

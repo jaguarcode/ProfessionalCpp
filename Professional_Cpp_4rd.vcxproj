@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Const.cpp" />
     <ClCompile Include="CStyledArray.cpp" />
     <ClCompile Include="InitializerList.cpp" />
     <ClCompile Include="main.cpp" />
