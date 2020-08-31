@@ -142,6 +142,7 @@
     <ClCompile Include="CStyledArray.cpp" />
     <ClCompile Include="InitializerList.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Pointer.cpp" />
     <ClCompile Include="StdArray.cpp" />
     <ClCompile Include="StdVector.cpp" />
   </ItemGroup>

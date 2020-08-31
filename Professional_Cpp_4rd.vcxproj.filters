@@ -33,5 +33,8 @@
     <ClCompile Include="InitializerList.cpp">
       <Filter>소스 파일\Part1</Filter>
     </ClCompile>
+    <ClCompile Include="Pointer.cpp">
+      <Filter>소스 파일\Part1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
