@@ -37,10 +37,10 @@
 - 직접 리스트 초기화와 복제 리스트 초기화
 
 #### 표준 라이브러리
-#### 첫 C++ 프로그램
+#### 첫 C++ 프로그램 (Solution >> filter[FirstCppProgram])
 - 직원 관리 시스템
-- Employee 클래스
-- Database 클래스
+- Employee 클래스 (Solution >> filter[FirstCppProgram] >> Employee.h, Employee.cpp, EmployeeTest.cpp)
+- Database 클래스 (Solution >> filter[FirstCppProgram] >> Database.h, Database.cpp, Database.cpp)
 - 사용자 인터페이스
 - 프로그램 평가하기
 
