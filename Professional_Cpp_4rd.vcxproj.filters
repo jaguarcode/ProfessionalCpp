@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\Part1">
       <UniqueIdentifier>{3d935b21-7998-4c49-8f2f-a2d8b310e06b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\FirstCppProgram">
+      <UniqueIdentifier>{7ea8c12f-5fdf-4534-9445-f5258ed770a3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -45,5 +48,28 @@
     <ClCompile Include="TypeInference.cpp">
       <Filter>소스 파일\Part1</Filter>
     </ClCompile>
+    <ClCompile Include="UniformInitialization.cpp">
+      <Filter>소스 파일\Part1</Filter>
+    </ClCompile>
+    <ClCompile Include="Employee.cpp">
+      <Filter>소스 파일\FirstCppProgram</Filter>
+    </ClCompile>
+    <ClCompile Include="EmployeeTest.cpp">
+      <Filter>소스 파일\FirstCppProgram</Filter>
+    </ClCompile>
+    <ClCompile Include="Database.cpp">
+      <Filter>소스 파일\FirstCppProgram</Filter>
+    </ClCompile>
+    <ClCompile Include="DatabaseTest.cpp">
+      <Filter>소스 파일\FirstCppProgram</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Employee.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Database.h">
+      <Filter>소스 파일\FirstCppProgram</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
