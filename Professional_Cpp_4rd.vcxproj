@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="Const.cpp" />
     <ClCompile Include="CStyledArray.cpp" />
+    <ClCompile Include="CStyleString.cpp" />
     <ClCompile Include="Database.cpp" />
     <ClCompile Include="DatabaseTest.cpp" />
     <ClCompile Include="Employee.cpp" />
@@ -150,6 +151,7 @@
     <ClCompile Include="Reference.cpp" />
     <ClCompile Include="StdArray.cpp" />
     <ClCompile Include="StdVector.cpp" />
+    <ClCompile Include="StringLiteral.cpp" />
     <ClCompile Include="TypeInference.cpp" />
     <ClCompile Include="UniformInitialization.cpp" />
     <ClCompile Include="EmployeeTest.cpp" />

@@ -13,11 +13,14 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\Part1">
-      <UniqueIdentifier>{3d935b21-7998-4c49-8f2f-a2d8b310e06b}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\FirstCppProgram">
       <UniqueIdentifier>{7ea8c12f-5fdf-4534-9445-f5258ed770a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter1">
+      <UniqueIdentifier>{3d935b21-7998-4c49-8f2f-a2d8b310e06b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter2">
+      <UniqueIdentifier>{01e68f6e-62ef-4488-a5f0-607fcd7f73f4}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -25,31 +28,31 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="CStyledArray.cpp">
-      <Filter>소스 파일\Part1</Filter>
+      <Filter>소스 파일\Chapter1</Filter>
     </ClCompile>
     <ClCompile Include="StdArray.cpp">
-      <Filter>소스 파일\Part1</Filter>
+      <Filter>소스 파일\Chapter1</Filter>
     </ClCompile>
     <ClCompile Include="StdVector.cpp">
-      <Filter>소스 파일\Part1</Filter>
+      <Filter>소스 파일\Chapter1</Filter>
     </ClCompile>
     <ClCompile Include="InitializerList.cpp">
-      <Filter>소스 파일\Part1</Filter>
+      <Filter>소스 파일\Chapter1</Filter>
     </ClCompile>
     <ClCompile Include="Pointer.cpp">
-      <Filter>소스 파일\Part1</Filter>
+      <Filter>소스 파일\Chapter1</Filter>
     </ClCompile>
     <ClCompile Include="Const.cpp">
-      <Filter>소스 파일\Part1</Filter>
+      <Filter>소스 파일\Chapter1</Filter>
     </ClCompile>
     <ClCompile Include="Reference.cpp">
-      <Filter>소스 파일\Part1</Filter>
+      <Filter>소스 파일\Chapter1</Filter>
     </ClCompile>
     <ClCompile Include="TypeInference.cpp">
-      <Filter>소스 파일\Part1</Filter>
+      <Filter>소스 파일\Chapter1</Filter>
     </ClCompile>
     <ClCompile Include="UniformInitialization.cpp">
-      <Filter>소스 파일\Part1</Filter>
+      <Filter>소스 파일\Chapter1</Filter>
     </ClCompile>
     <ClCompile Include="Employee.cpp">
       <Filter>소스 파일\FirstCppProgram</Filter>
@@ -62,6 +65,12 @@
     </ClCompile>
     <ClCompile Include="DatabaseTest.cpp">
       <Filter>소스 파일\FirstCppProgram</Filter>
+    </ClCompile>
+    <ClCompile Include="CStyleString.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="StringLiteral.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
