@@ -117,6 +117,7 @@
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <AdditionalOptions>/std:c++17 %(AdditionalOptions)</AdditionalOptions>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -148,7 +149,9 @@
     <ClCompile Include="Employee.cpp" />
     <ClCompile Include="InitializerList.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Namespace.cpp" />
+    <ClCompile Include="1.1.2.Namespace.cpp">
+      <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp17</LanguageStandard>
+    </ClCompile>
     <ClCompile Include="Pointer.cpp" />
     <ClCompile Include="Reference.cpp" />
     <ClCompile Include="StdArray.cpp" />

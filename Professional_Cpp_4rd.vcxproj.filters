@@ -72,7 +72,7 @@
     <ClCompile Include="StringLiteral.cpp">
       <Filter>소스 파일\Chapter2</Filter>
     </ClCompile>
-    <ClCompile Include="Namespace.cpp">
+    <ClCompile Include="1.1.2.Namespace.cpp">
       <Filter>소스 파일\Chapter1</Filter>
     </ClCompile>
   </ItemGroup>
