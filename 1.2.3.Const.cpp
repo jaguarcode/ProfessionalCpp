@@ -14,7 +14,7 @@
 	그래서 const로 정의할 대상에 타입이나 스코프를 적용할 수 있다는 장점이 있다.)
 
 		const int versionNumberMajor = 2;
-		const int versionNumberMinor = 1;
+		const int versionNumberMinor = 1;db
 		const std::string productName = "Super Hyper Net Modulator";
 */
 

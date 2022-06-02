@@ -141,8 +141,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Const.cpp" />
-    <ClCompile Include="CStyledArray.cpp" />
+    <ClCompile Include="1.1.11.StdArray.cpp" />
+    <ClCompile Include="1.1.13.StructuredBinding.cpp" />
+    <ClCompile Include="1.1.6.Type.cpp" />
+    <ClCompile Include="1.2.3.Const.cpp" />
+    <ClCompile Include="1.3.1.Class.cpp" />
     <ClCompile Include="CStyleString.cpp" />
     <ClCompile Include="Database.cpp" />
     <ClCompile Include="DatabaseTest.cpp" />
@@ -154,16 +157,20 @@
     </ClCompile>
     <ClCompile Include="Pointer.cpp" />
     <ClCompile Include="Reference.cpp" />
-    <ClCompile Include="StdArray.cpp" />
-    <ClCompile Include="StdVector.cpp" />
+    <ClCompile Include="1.1.12.StdVector.cpp" />
+    <ClCompile Include="SmartPointer.cpp" />
     <ClCompile Include="StringLiteral.cpp" />
-    <ClCompile Include="TypeInference.cpp" />
-    <ClCompile Include="UniformInitialization.cpp" />
+    <ClCompile Include="1.2.6.TypeInference.cpp" />
+    <ClCompile Include="1.4.UniformInitialization.cpp" />
     <ClCompile Include="EmployeeTest.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Database.h" />
     <ClInclude Include="Employee.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="1.1.10.CStyledArray.cpp" />
+    <None Include="1.1.7.Condition.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

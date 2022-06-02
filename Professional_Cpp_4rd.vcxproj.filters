@@ -27,13 +27,7 @@
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="CStyledArray.cpp">
-      <Filter>소스 파일\Chapter1</Filter>
-    </ClCompile>
-    <ClCompile Include="StdArray.cpp">
-      <Filter>소스 파일\Chapter1</Filter>
-    </ClCompile>
-    <ClCompile Include="StdVector.cpp">
+    <ClCompile Include="1.1.12.StdVector.cpp">
       <Filter>소스 파일\Chapter1</Filter>
     </ClCompile>
     <ClCompile Include="InitializerList.cpp">
@@ -42,16 +36,16 @@
     <ClCompile Include="Pointer.cpp">
       <Filter>소스 파일\Chapter1</Filter>
     </ClCompile>
-    <ClCompile Include="Const.cpp">
+    <ClCompile Include="1.2.3.Const.cpp">
       <Filter>소스 파일\Chapter1</Filter>
     </ClCompile>
     <ClCompile Include="Reference.cpp">
       <Filter>소스 파일\Chapter1</Filter>
     </ClCompile>
-    <ClCompile Include="TypeInference.cpp">
+    <ClCompile Include="1.2.6.TypeInference.cpp">
       <Filter>소스 파일\Chapter1</Filter>
     </ClCompile>
-    <ClCompile Include="UniformInitialization.cpp">
+    <ClCompile Include="1.4.UniformInitialization.cpp">
       <Filter>소스 파일\Chapter1</Filter>
     </ClCompile>
     <ClCompile Include="Employee.cpp">
@@ -75,6 +69,21 @@
     <ClCompile Include="1.1.2.Namespace.cpp">
       <Filter>소스 파일\Chapter1</Filter>
     </ClCompile>
+    <ClCompile Include="1.1.6.Type.cpp">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.11.StdArray.cpp">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.13.StructuredBinding.cpp">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="SmartPointer.cpp">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="1.3.1.Class.cpp">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Employee.h">
@@ -83,5 +92,13 @@
     <ClInclude Include="Database.h">
       <Filter>소스 파일\FirstCppProgram</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="1.1.7.Condition.cpp">
+      <Filter>소스 파일\Chapter1</Filter>
+    </None>
+    <None Include="1.1.10.CStyledArray.cpp">
+      <Filter>소스 파일\Chapter1</Filter>
+    </None>
   </ItemGroup>
 </Project>

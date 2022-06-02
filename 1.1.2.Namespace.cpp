@@ -10,13 +10,13 @@ namespace mycode {
 	void foo();
 }
 
-void mycode::foo() 
+void mycode::foo()
 {
 	std::cout << "foo() called in the mycode namespace" << "\n";
 }
 
 namespace mycode2 {
-	void foo2() 
+	void foo2()
 	{
 		std::cout << "foo2() called in the mycode2 namespace" << "\n";
 	}
